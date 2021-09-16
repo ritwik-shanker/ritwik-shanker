@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik</h1>
 <h3 align="center">A Computer Science undergraduate who loves competitive programming with experience in the field of Android Development.</h3>
 <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=ritwikshanker" alt="ritwikshanker" />
+	<img src="https://komarev.com/ghpvc/?username=ritwik-shanker" alt="ritwik-shanker" />
 </p>
 
 - 💬 Ask me about **Android, Kotlin**
