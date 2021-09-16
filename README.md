@@ -12,10 +12,10 @@
 
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikshanker&layout=compact&hide=html&theme=dracula" alt="ritwikshanker" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik-shanker&layout=compact&hide=html&theme=dracula" alt="ritwik-shanker" />
 </p>
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikshanker&show_icons=true&theme=dracula" alt="ritwikshanker" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwik-shanker&show_icons=true&theme=dracula" alt="ritwik-shanker" />
 </p>
 <p align="center">
 	<a href="https://dev.to/ritwikshanker" target="blank">
